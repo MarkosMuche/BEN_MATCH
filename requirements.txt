@@ -1,0 +1,12 @@
+torch
+torchvision
+torchgpipe
+click
+ruamel.yaml
+numpy
+scipy
+scikit-learn
+gensim
+tqdm
+joblib
+logzero
